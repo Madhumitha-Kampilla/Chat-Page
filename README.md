@@ -21,7 +21,7 @@ It displays chat messages with left and right alignment, styled bubbles, and a b
 ---
 
 ## 🌐 Live Demo
-https://Madhumitha-Kampilla.github.io/chat-page/
+https://madhumitha-kampilla.github.io/chat-page/
 
 ---
 
