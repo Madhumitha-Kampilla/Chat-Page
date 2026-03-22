@@ -1,2 +1,29 @@
-# Chat-Page
-A responsive chat interface designed using HTML and CSS featuring message alignment and custom styling.
+# 💬 Chat Page UI
+
+## 📌 Description
+This is a simple chat page UI built using HTML and CSS.  
+It displays chat messages with left and right alignment, styled bubbles, and a background image.
+
+---
+
+## 🚀 Features
+- Clean and simple UI
+- Chat message alignment (left & right)
+- Styled message bubbles
+- Background image support
+
+---
+
+## 🛠️ Technologies Used
+- HTML
+- CSS
+
+---
+
+## 🌐 Live Demo
+https://Madhumitha-Kampilla.github.io/chat-page/
+
+---
+
+## 📁 Project Info
+This project is part of my frontend learning journey.
